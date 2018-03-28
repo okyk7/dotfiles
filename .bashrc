@@ -1,2 +1,2 @@
 alias vi='vim'
-alias view='vim -R
+alias view='vim -R'
