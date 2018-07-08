@@ -8,7 +8,6 @@
     "editor.renderControlCharacters": true,
     "editor.renderLineHighlight": "gutter",
     "workbench.colorTheme": "Default High Contrast",
-    "window.reopenFolders": "all",
     "files.eol": "\n",
     "files.insertFinalNewline": true,
     "extensions.autoUpdate": true,
@@ -23,5 +22,10 @@
     },
     "[shellscript]": {
         "editor.tabSize": 2
-    }
+    },
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "explorer.confirmDragAndDrop": false,
+    "editor.acceptSuggestionOnCommitCharacter": false
 }
